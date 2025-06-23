@@ -2,6 +2,8 @@
 
 This project is just a test/study for **arisumika**.
 
+Original project: [ptoj-frontend](https://github.com/net-escape/ptoj-frontend)
+
 # Putong OJ - Frontend
 
 [![Vue.js](https://img.shields.io/github/package-json/dependency-version/net-escape/ptoj-frontend/vue?color=42b883
