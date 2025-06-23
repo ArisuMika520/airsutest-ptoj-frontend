@@ -1,3 +1,7 @@
+# Note
+
+This project is just a test/study for arisumika.
+
 # Putong OJ - Frontend
 
 [![Vue.js](https://img.shields.io/github/package-json/dependency-version/net-escape/ptoj-frontend/vue?color=42b883
