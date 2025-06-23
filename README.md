@@ -1,6 +1,6 @@
 # Note
 
-This project is just a test/study for arisumika.
+This project is just a test/study for **arisumika**.
 
 # Putong OJ - Frontend
 
